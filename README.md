@@ -35,21 +35,21 @@
 ---
 
 ### 사용기술
-<img src="https://user-images.githubusercontent.com/107980523/210203153-3ef1bba3-2439-4f3f-9ec5-eab533882a32.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/107980523/210203153-3ef1bba3-2439-4f3f-9ec5-eab533882a32.png" width="600"/>
 
 ### 유스케이스
-<img src="https://user-images.githubusercontent.com/107980523/210202986-1ef8b5af-7e57-4d61-8f7b-1c478c9a5f5b.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/107980523/210202986-1ef8b5af-7e57-4d61-8f7b-1c478c9a5f5b.png" width="600"/>
 
 ### 서비스 흐름도
-<img src="https://user-images.githubusercontent.com/107980523/210202997-408b5cae-81c9-4be0-b3be-81aa49ec8d86.png" width="550"/>
+<img src="https://user-images.githubusercontent.com/107980523/210202997-408b5cae-81c9-4be0-b3be-81aa49ec8d86.png" width="600"/>
 
 ### 시스템 구성도
-<img src="https://user-images.githubusercontent.com/107980523/210203150-63c1f6e8-3176-4779-b501-c578840026d4.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/107980523/210203150-63c1f6e8-3176-4779-b501-c578840026d4.png" width="600"/>
 
 ### 개발 및 환경구현
-<img src="https://user-images.githubusercontent.com/107980523/210203391-b58bbb28-3da0-4f7d-8257-3f6efc2147f0.png" width="500"/>
-<img src="https://user-images.githubusercontent.com/107980523/210203394-b97f8b52-7146-49ab-affa-15285441552f.png" width="500"/>
-<img src="https://user-images.githubusercontent.com/107980523/210203395-3e695d75-a50a-4401-9e11-9a8d5063551b.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/107980523/210203391-b58bbb28-3da0-4f7d-8257-3f6efc2147f0.png" width="600"/>
+<img src="https://user-images.githubusercontent.com/107980523/210203394-b97f8b52-7146-49ab-affa-15285441552f.png" width="600"/>
+<img src="https://user-images.githubusercontent.com/107980523/210203395-3e695d75-a50a-4401-9e11-9a8d5063551b.png" width="600"/>
 
 
 ---

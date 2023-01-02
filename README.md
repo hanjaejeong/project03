@@ -36,16 +36,12 @@
 
 ### 사용기술
 <img src="https://user-images.githubusercontent.com/107980523/209783103-8b015160-54c8-4138-a0ce-e1166fe86422.png" width="500" height="200"/>
-<img src="https://user-images.githubusercontent.com/107980523/209783109-90012582-f9cb-4221-afbe-4bec4ff3ba29.png" width="500" height="200"/>
 
 ### 유스케이스
-<img src="https://user-images.githubusercontent.com/107980523/209784406-929a05b3-5fcc-4128-ab92-0d6097e1e5b1.png" width="500"/>
 
 ### 서비스 흐름도
-<img src="https://user-images.githubusercontent.com/107980523/209784415-f510b274-8ca1-444a-ae75-708e6a122e46.png" width="500"/>
 
 ### E-R Diagram
-<img src="https://user-images.githubusercontent.com/107980523/209784940-80292064-c5b0-4564-b287-7b15fed8f312.png" width="500"/>
 
 ---
 

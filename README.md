@@ -38,8 +38,10 @@
 <img src="https://user-images.githubusercontent.com/107980523/209783103-8b015160-54c8-4138-a0ce-e1166fe86422.png" width="500" height="200"/>
 
 ### 유스케이스
+<img src="https://user-images.githubusercontent.com/107980523/210202986-1ef8b5af-7e57-4d61-8f7b-1c478c9a5f5b.png" width="500"/>
 
 ### 서비스 흐름도
+<img src="https://user-images.githubusercontent.com/107980523/210202997-408b5cae-81c9-4be0-b3be-81aa49ec8d86.png" width="500"/>
 
 ### E-R Diagram
 
